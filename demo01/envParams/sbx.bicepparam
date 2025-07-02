@@ -1,6 +1,6 @@
 using '../main.bicep'
 
-var namePrefix = 'kbbb' // TODO: Replace with your name prefix, 4-5 characters, lowercase, no special characters
+var namePrefix = '<your-name-prefix>' // TODO: Replace with your name prefix, 4-5 characters, lowercase, no special characters
 var projectName = 'demo01'
 var environment = 'sbx'
 
